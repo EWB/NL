@@ -1,0 +1,1 @@
+[18-Nov-2013 13:19:58 America/New_York] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8208 bytes) in /home/nlightse/public_html/includes/menu.inc on line 3090
